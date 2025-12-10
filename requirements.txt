@@ -1,0 +1,21 @@
+# Core Eel web app and data flow
+eel
+requests
+
+# Audio playback (pydub requires ffmpeg installed separately via Homebrew/apt/choco)
+pydub
+
+# Data Science and Modeling
+pandas
+numpy
+scikit-learn
+# Note: You used 'importn Empire' and 'by what kit' which are likely typos, 
+# correcting to 'numpy' and 'pywhatkit'
+
+# Voice Assistant Features
+wikipedia
+pywhatkit
+pygame
+
+# Translation
+deep-translator
